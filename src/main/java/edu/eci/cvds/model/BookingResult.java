@@ -5,6 +5,7 @@ package edu.eci.cvds.model;
  */
 public enum BookingResult {
 	SUCCESS,
-	NOT_ENOUGH_SEATS;
+	NOT_ENOUGH_SEATS,
+	INVALID_SEATS;
 
 }
