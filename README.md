@@ -1,3 +1,9 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/703cd657aef642f286655ec8cf021512)](https://www.codacy.com/app/jchirivi97/Laboratorio6A?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jchirivi97/Laboratorio6A&amp;utm_campaign=Badge_Grade)
+
+
+[![CircleCI](https://circleci.com/gh/jchirivi97/Laboratorio6A.svg?style=svg)](https://circleci.com/gh/jchirivi97/Laboratorio6A)
+
+
 ## Escuela Colombiana de Ingeniería
 ## Ciclos de Vida del Desarrollo de Software – CVDS
 ## Parcial Práctico - 1er Tercio
